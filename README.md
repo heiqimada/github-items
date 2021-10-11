@@ -1,1 +1,1 @@
-"# 直接第一次线上提交" 
+"# first commit from loacl repository" 
